@@ -12,3 +12,9 @@ Vous élaborerez un system de construction de bâtiment, comme dans les jeux de 
 - Il doit y avoir une couleur différente s’il est plaçable ou non​
 - Snap avec les éléments adjacent​
 - Pouvoir détruire un élément
+
+## Contrôles : 
+
+- ZQSD : Déplacements
+- A/E : Rotation 
+- R/F : Pivot
