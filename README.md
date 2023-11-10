@@ -16,6 +16,7 @@ Vous élaborerez un system de construction de bâtiment, comme dans les jeux de 
 ## Contrôles : 
 
 - ZQSD                  : Déplacements
+- Espace                : Sauter
 - G                     : Activation/Désactivation de la Preview du Build
 - Clic Droit            : Placer l'objet dans le monde lors du la Preview
 - R                     : Faire tourner l'objet lors de la preview
