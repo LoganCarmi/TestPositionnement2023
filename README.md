@@ -22,3 +22,4 @@ Vous élaborerez un system de construction de bâtiment, comme dans les jeux de 
 - R                                     : Faire tourner l'objet lors de la preview
 - Clic Molette                          : Réinitialise la rotation de l'objet lors de la preview
 - Molette de la souris vers le bas      : Changer parmi les différents objets de construction
+- X                                     : Supprimer l'objet visé
